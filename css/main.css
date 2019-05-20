@@ -1,0 +1,50 @@
+.body{
+  font-family: "Poppins", Helvetica, Arial, sans-serif;
+}
+/*sections home*/
+.espacamento {
+  padding:8em;
+  width: 100vw;
+  height: 100vh;
+}
+.corBottum {
+  color: #fff;
+  background-color: #F58634;
+  border-color: #F58634;
+}
+
+section #title-home{
+font-size: 1em;
+}
+/*End Sections*/
+
+/* Sections empresa*/
+.espacamento-empresa {
+  background-color: #f7f7f7;
+  padding:8em;
+  width: 100vw;
+  height: 100vh;
+}
+/*End Sections-empresa*/
+
+.navbar-list{
+  padding-left:16em;
+}
+
+@media (max-width: 576px) {
+}
+
+@media (max-width: 768px) {
+#redes-sociais{
+  display: none !important;
+}
+
+}
+
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 1200px) {
+
+}
